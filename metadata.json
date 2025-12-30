@@ -1,0 +1,8 @@
+{
+  "name": "Google Studio OS - Retail Demo Edition",
+  "description": "A high-fidelity OS simulation designed for retail environments, featuring automatic demo loops, tablet mode, and productivity suite demonstrations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
